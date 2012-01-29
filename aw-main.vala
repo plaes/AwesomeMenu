@@ -1,7 +1,9 @@
-/*
- * Simple Awesome WM helper for GNOME session
+/* vim: set ts=4 sw=4 tw=0 expandtab:
  *
- * vim: set ts=4 sw=4 tw=0 expandtab:
+ * Simple Awesome WM helper utility for Suspend/Shutdown/Reboot
+ *
+ * :copyright: (c) 2012 by Priit Laes.
+ * :license: BSD, see LICENSE for more details.
  */
 using Gtk;
 
